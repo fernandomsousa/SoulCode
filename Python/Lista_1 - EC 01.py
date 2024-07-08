@@ -39,4 +39,4 @@ else:
 
 # ------ Estudo de caso 01 resolvido sem necessidade de auxilio ------ #
 
-# https://colab.research.google.com/drive/1rwTIr9bSIDjezjyPCzVyKplh1hCmoErX?usp=sharing&authuser=0  colab das tarefas
+# https://colab.research.google.com/drive/1rwTIr9bSIDjezjyPCzVyKplh1hCmoErX?usp=sharing&authuser=0 colab das tarefas.
